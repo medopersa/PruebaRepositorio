@@ -1,4 +1,21 @@
 body{
-    color: brown;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: darkblue;
+    background: rgb(115, 165, 199);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
+
+p{
+    color: blue;
+    font-size: 16px;
     font-weight: bold;
+    
 }
